@@ -11,3 +11,4 @@ class Post
 end
 
 post.author.name
+end
